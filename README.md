@@ -1,0 +1,2 @@
+# pugstagram
+following Platzi course
