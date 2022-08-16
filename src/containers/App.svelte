@@ -6,7 +6,7 @@
   import TimeLine from "../components/TimeLine.svelte";
 
   let data = {};
-  const API = 'http://localhost:3000/data';
+  const API = 'https://rocky-crag-15353.herokuapp.com/data';
 
   onMount(async () => {
     const response = await fetch(API);
