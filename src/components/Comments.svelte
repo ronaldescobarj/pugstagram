@@ -31,7 +31,7 @@
           placeholder="Agregar comentario..."
           id="text"
         />
-        <button type="submit">Post</button>
+        <button type="submit">Publicar</button>
       </form>
     </div>
   </div>
